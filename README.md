@@ -221,7 +221,7 @@ Once the Resource Group is selected, you will enter the Resource Group name and 
 |Remote Desktop| allows the user to connect to a computer in another location, see that computer's desktop and interact with it as if it were local.
 |Tags| metadata elements that you apply to your Azure resources. They're key-value pairs that help you identify resources based on settings that are relevant to your organization
 |Region| Each Azure region features datacenters deployed within a latency-defined perimeter. They're connected through a dedicated regional low-latency network. This design ensures that Azure services within any region offer the best possible performance and security.
-|DHCP| DHCP (Dynamic Host Configuration Protocol) is a network management protocol used on Internet Protocol networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
-|DNS| DNS or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
+|Dynamic Host Configuration Protocol (DHCP)| is a network management protocol used on Internet Protocol networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
+|Domain Name System (DNS)| translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
 
 <p align="center"><i><b>🌤️Congratulations on completing lab🌤️</p></i></b>
